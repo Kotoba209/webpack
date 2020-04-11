@@ -1,0 +1,14 @@
+body {
+  background-color: #fff;
+}
+
+h1 {
+  color: red;
+}
+
+.bg{
+  width: 200px;
+  height: 200px;
+  background-image: url('./images/0.jpg');
+  background-size: 100%;
+}
