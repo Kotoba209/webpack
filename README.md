@@ -8,7 +8,7 @@ webpack学习路径：
 
 [说说如何配置webpack](https://www.jianshu.com/p/2f0f1e34eb65)
 
-[[webpack-dev-server 打开指定的页面](https://segmentfault.com/q/1010000009904930)](https://segmentfault.com/q/1010000009904930)
+[webpack-dev-serve打开指定页面](https://segmentfault.com/q/1010000009904930)
 
 
 
